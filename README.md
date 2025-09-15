@@ -1,4 +1,6 @@
-# Sales Performance Dashboard
+# Sales Performance Dashboard [Live URL](https://janejeshen-sales-performance-dashboard-streamlit-app-ggstz8.streamlit.app/)
+
+
 
 This Power BI project analyzes sales data to uncover insights about order trends, customer performance, and category-based sales and profit. It includes breakdowns by month, product sub-category, and customer segments.
 
